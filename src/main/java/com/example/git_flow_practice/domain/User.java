@@ -7,4 +7,6 @@ public class User {
     private String name;
 
     private String pw;
+
+    private Address address;
 }
